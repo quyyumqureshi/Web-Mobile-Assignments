@@ -1,0 +1,11 @@
+.separator {
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+    margin-left: 55px;
+  }
+  
+  .projects marquee {
+    height: 200px;
+  }
